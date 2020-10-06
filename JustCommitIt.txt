@@ -1,0 +1,15 @@
+Demo
+defect #1002
+tested and verified 
+Riki
+
+defect #1002
+test
+TeamCity
+Demo
+defect #2043
+tested qa9
+tested
+Riki Test 
+tested and verified 
+QA8
